@@ -1,5 +1,5 @@
 # Hello, I'm Saurav
-<a href="www.linkedin.com/in/saurav-gaddamwar-7507a125a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saurav-gaddamwar-7507a125a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a final-year B.Tech student with a passion for web development, cybersecurity, and problem solving.
 
