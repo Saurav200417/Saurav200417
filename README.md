@@ -9,4 +9,4 @@ My journey has led me to develop a passion for web development,Software Developm
 ## Projects
 - <a href="https://github.com/Uday22o7/Money-Manager.git">Money Manager</a>
 - <a href="https://github.com/Saurav200417/HTTP-Server-via-C.git">HTTP Server via C</a>
--<a href="https://github.com/Saurav200417/Analyze_Repositories">Analyze_Repo</a>
+- <a href="https://github.com/Saurav200417/Analyze_Repositories">Analyze Repositories</a>
